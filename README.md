@@ -1,2 +1,2 @@
 # poll-api
-API para criação de enquentes e votação em tempo real
+API para criação de enquetes e votação em tempo real
